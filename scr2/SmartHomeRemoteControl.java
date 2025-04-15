@@ -1,6 +1,6 @@
-package command_pattern;
+package scr2;
 
-import command_pattern.commands.Command;
+import scr2.commands.Command;
 import java.util.HashMap;
 import java.util.Map;
 
